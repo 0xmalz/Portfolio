@@ -11,13 +11,22 @@ This Website was developed using [NextJS 14](https://nextjs.org/), using [Typesc
 ### Run it yourself
 
 **Clone this repository** </br>
-`git clone https://github.com/0xmalz/Portfolio`
+
+```shell
+git clone https://github.com/0xmalz/Portfolio`
+```
 
 **Install dependecies** </br>
-`npm install` or `npm i`
+
+```shell
+npm install
+```
 
 **Run the dev server** </br>
-`npm run dev`
+
+```shell
+npm run dev`
+```
 
 ## Contribute
 
