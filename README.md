@@ -13,7 +13,7 @@ This Website was developed using [NextJS 14](https://nextjs.org/), using [Typesc
 **Clone this repository** </br>
 
 ```shell
-git clone https://github.com/0xmalz/Portfolio`
+git clone https://github.com/0xmalz/Portfolio
 ```
 
 **Install dependecies** </br>
