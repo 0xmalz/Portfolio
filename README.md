@@ -10,10 +10,7 @@ This portfolio / blog is an attempt to express my professional self and explain 
 
 #### Techstack
 
-Framework: [NextJS](https://nextjs.org/) - Version 14
-Language: [Typescript](https://www.typescriptlang.org/)
-Formatting: [Prettier](https://prettier.io/)
-Package Manager: [npm](https://www.npmjs.com/)
+This Website was developed using [NextJS 14](https://nextjs.org/), using [Typescript](https://www.typescriptlang.org/) as a language and [Tailwind](https://tailwindcss.com/) as a CSS Framework. I've used [Shadcn UI](https://ui.shadcn.com/) for components and [Fluid](https://fluid.tw/) to scale utilities smoothly between breakpoints.
 
 #### Run it yourself
 
@@ -40,4 +37,4 @@ Regards **malz**
 
 ---
 
-[MIT License](https://opensource.org/licenses/MIT)
+This project is open source and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
