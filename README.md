@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Porfolio
 
-## Getting Started
+---
 
-First, run the development server:
+This portfolio / blog is an attempt to express my professional self and explain the rapidly evolving world of technology in simple terms that everyone can understand.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Development
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Techstack
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Framework: [NextJS](https://nextjs.org/) - Version 14
+Language: [Typescript](https://www.typescriptlang.org/)
+Formatting: [Prettier](https://prettier.io/)
+Package Manager: [npm](https://www.npmjs.com/)
 
-## Learn More
+#### Run it yourself
 
-To learn more about Next.js, take a look at the following resources:
+**Clone this repository**
+`git clone https://github.com/0xmalz/Portfolio`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Install dependecies**
+`npm install` or `npm i`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Run the dev server**
+`npm run dev`
 
-## Deploy on Vercel
+## Contribute
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This repository is open for everyone to contribute, I'm happy about every pull request and issue ticket. I will make sure to review every single one of them.
+
+When creating a pull request make sure to format your files according to my `.prettierrc` and follow the [commit message convention](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).
+
+Regards **malz**
+
+## Licence
+
+---
+
+[MIT License](https://opensource.org/licenses/MIT)
