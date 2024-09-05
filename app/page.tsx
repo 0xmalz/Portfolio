@@ -30,7 +30,6 @@ import {
     Typescript,
     Vscode,
 } from "@/public/icons"
-import { Contact } from "@/components/contact"
 import Navigation from "@/components/navigation"
 import Hero from "@/components/hero"
 
@@ -287,3 +286,7 @@ export default function Home() {
         </div>
     )
 }
+
+/*
+
+*/

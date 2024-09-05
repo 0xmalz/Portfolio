@@ -94,3 +94,60 @@
         @apply bg-background text-foreground;
     }
 }
+
+.box {
+    transform-style: preserve-3d;
+}
+
+.box-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.box-face-top {
+    transform: rotateX(90deg) translateZ(35px);
+}
+
+.box-face-front {
+    transform: rotateY(0deg) translateZ(35px);
+}
+
+.box-face-bottom {
+    transform: rotateX(-90deg) translateZ(35px);
+}
+.box-face-back {
+    transform: rotateY(180deg) rotateZ(180deg) translateZ(35px);
+}
+
+@keyframes spinStages {
+    0% {
+        transform: rotateX(0deg);
+    }
+    6.25% {
+        transform: rotateX(90deg);
+    }
+    31.25% {
+        transform: rotateX(90deg);
+    }
+    37.5% {
+        transform: rotateX(180deg);
+    }
+    62.5% {
+        transform: rotateX(180deg);
+    }
+    68.75% {
+        transform: rotateX(270deg);
+    }
+    93.75% {
+        transform: rotateX(270deg);
+    }
+    100% {
+        transform: rotateX(360deg);
+    }
+}
