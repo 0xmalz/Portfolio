@@ -22,10 +22,12 @@ git clone https://github.com/0xmalz/Portfolio`
 npm install
 ```
 
+_or in short:_ `npm i`
+
 **Run the dev server** </br>
 
 ```shell
-npm run dev`
+npm run dev
 ```
 
 ## Contribute
